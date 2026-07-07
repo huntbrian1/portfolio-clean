@@ -6,7 +6,7 @@
 
 ## 🧠 Skills
 
-`Python` · `SQL` · `R` · `Excel / Power Automate` · `Logistic Regression` · `Ridge / Lasso / ElasticNet` · `Power BI` · `Tableau` · `Looker Studio` · `Financial Modeling`
+`Python` · `SQL` · `R` · `Excel` · `Power Automate` · `Logistic Regression` · `Ridge / Lasso / ElasticNet` · `Power BI` · `Tableau` · `Looker Studio` · `Financial Modeling`
 
 ---
 
