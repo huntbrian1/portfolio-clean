@@ -47,6 +47,13 @@ Synthetic CPG coffee and beverage category strategy case study built for commerc
 
 ---
 
+### ♠️ [Tournament Economics & Signal Extraction: WSOP Main Event Analytics](https://github.com/huntbrian1/WSOPProject)
+**Python · Tournament Economics · Behavioral Analytics · Simulated Cohort Analysis · Visualization**
+
+Used WSOP Main Event data (1971–2025) to analyze how scale changes payout economics, how fee drag functions as structural friction, and how slowly skill signal emerges under high variance — questions that generalize to marketplace platforms, performance evaluation, and incentive design. Quantified winner share compression, estimated rake as a take-rate analogue, and ran a simulated 5,000-player cohort analysis to measure the relationship between skill percentile and cash rate (r = 0.175).
+
+---
+
 ## 📫 Contact
 
 - **GitHub:** [github.com/huntbrian1](https://github.com/huntbrian1)
