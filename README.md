@@ -52,6 +52,4 @@ Synthetic CPG coffee and beverage category strategy case study built for commerc
 - **GitHub:** [github.com/huntbrian1](https://github.com/huntbrian1)
 - **Email:** *bhunt11@elon.edu*
 
----
-
-*Last updated: July 2026*
+<!-- last updated July 2026 -->
