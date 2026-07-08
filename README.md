@@ -29,7 +29,7 @@ Built in Hex using public mental health and county-level demographic data to ide
 ### 📞 [GTM Performance: Outreach Efficiency & Account Prioritization](https://app.hex.tech/019e4d33-0ab5-7000-8cc1-1feb8c334cb6/app/GTM-Performance-Outreach-Efficiency-Account-Prioritization-033ZCobLrURfRZH1UJJl8u/latest)
 **Hex · SQL · Python · Monte Carlo Simulation · GTM Analytics · CRM Analytics**
 
-Analyzed synthetic outreach performance data for an outpatient telehealth company's clinical team, tracking referral yield, activity mix, and account concentration across a 12-month period. Surfaced a yield-not-volume problem — referral yield collapsed despite growing activity counts — and identified the top 10% of accounts driving 64.9% of referrals to inform account prioritization strategy. Concluded with Monte Carlo simulations modeling the incremental referral impact of CRM tooling improvements to reduce rep logging friction.
+Analyzed synthetic outreach performance data for an outpatient telehealth company's clinical outreach/sales team, tracking referral yield, activity mix, and account concentration across a 12-month period. Surfaced a yield-not-volume problem — referral yield collapsed despite growing activity counts — and identified the top 10% of accounts driving 64.9% of referrals to inform account prioritization strategy. Concluded with Monte Carlo simulations modeling the incremental referral impact of CRM tooling improvements to reduce rep logging friction.
 
 ---
 
