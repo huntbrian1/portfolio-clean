@@ -12,10 +12,28 @@
 
 ## 📂 Projects
 
-### 🎓 [College Loan Default Risk](https://github.com/huntbrian1/CollegeLoanDefaultRisk)
-**Python · Logistic Regression · Regularization · Pandas**
+### 🚨 Public Safety Service Demand Intelligence Platform
+**PySpark · SQLite · MongoDB · R · Streamlit · Operational Analytics · Big Data**
 
-Analyzed the U.S. Department of Education's College Scorecard dataset to predict student loan default rates across institutions. Built and evaluated classification models (Logistic Regression, Ridge, Lasso) to identify the strongest institutional and demographic predictors of default risk. Delivered a formal research paper alongside the notebook.
+End-to-end operational analytics platform built on large-scale public safety dispatch data. Ingests and processes multi-source records across PySpark, SQLite, and MongoDB to model service demand patterns, resource utilization, and geographic hotspots. Delivers an interactive Streamlit dashboard surfacing real-time demand intelligence for operational planning and resource allocation decisions.
+
+> 🔗 *Repository link coming soon*
+
+---
+
+### 📊 [Retail Merchandise Planning & FP&A Forecasting Model](https://github.com/huntbrian1/retail-merchandise-planning-fpa-forecasting-model)
+**SQL · Excel · FP&A · Open-to-Buy · Retail Planning**
+
+End-to-end retail merchandise planning and FP&A forecasting model built on the TheLook eCommerce dataset. Combines SQL-based data extraction with a structured Open-to-Buy Excel workbook to model inventory planning, sales forecasting, and budget vs. actuals tracking across category-level merchandise planning and gross margin variance bridge analysis.
+
+---
+
+### 📈 Salesforce CRM Dashboard & Revenue Operations Analytics
+**Salesforce · CRM Analytics · Python · SQL · Dashboard Design · Revenue Ops**
+
+Revenue operations analytics project built around Salesforce CRM data, translating pipeline activity, account health, and rep performance metrics into an executive-facing dashboard. Maps deal velocity, conversion rates, and forecast accuracy to support territory planning, quota setting, and go-to-market prioritization decisions.
+
+> 🔗 *Repository link coming soon*
 
 ---
 
@@ -33,17 +51,17 @@ Analyzed synthetic outreach performance data for an outpatient telehealth compan
 
 ---
 
-### 📊 [Retail Merchandise Planning & FP&A Forecasting Model](https://github.com/huntbrian1/retail-merchandise-planning-fpa-forecasting-model)
-**SQL · Excel · FP&A · Open-to-Buy · Retail Planning**
-
-End-to-end retail merchandise planning and FP&A forecasting model built on the TheLook eCommerce dataset. Combines SQL-based data extraction with a structured Open-to-Buy Excel workbook to model inventory planning, sales forecasting, and budget vs. actuals tracking across category-level merchandise planning and gross margin variance bridge analysis.
-
----
-
 ### ☕ [Coffee & Beverage Category Strategy](https://github.com/huntbrian1/coffee-beverage-category-strategy)
 **Python · SQL · SQLite · Category Management · CPG Analytics**
 
 Synthetic CPG coffee and beverage category strategy case study built for commercial analytics and category management portfolio work. Analyzed category and channel growth, brand share shifts, promo lift vs. margin tradeoff, and customer-SKU opportunity scoring across a 2.5-year synthetic dataset. Delivered a stakeholder-ready Excel workbook, prioritized action plan, and full case study narrative alongside automated SQL/Python pipelines.
+
+---
+
+### 🎓 [College Loan Default Risk](https://github.com/huntbrian1/CollegeLoanDefaultRisk)
+**Python · Logistic Regression · Regularization · Pandas**
+
+Analyzed the U.S. Department of Education's College Scorecard dataset to predict student loan default rates across institutions. Built and evaluated classification models (Logistic Regression, Ridge, Lasso) to identify the strongest institutional and demographic predictors of default risk. Delivered a formal research paper alongside the notebook.
 
 ---
 
@@ -53,10 +71,5 @@ Synthetic CPG coffee and beverage category strategy case study built for commerc
 Used WSOP Main Event data (1971–2025) to analyze how scale changes payout economics, how fee drag functions as structural friction, and how slowly skill signal emerges under high variance — questions that generalize to marketplace platforms, performance evaluation, and incentive design. Quantified winner share compression, estimated rake as a take-rate analogue, and ran a simulated 5,000-player cohort analysis to measure the relationship between skill percentile and cash rate (r = 0.175).
 
 ---
-
-## 📫 Contact
-
-- **GitHub:** [github.com/huntbrian1](https://github.com/huntbrian1)
-- **Email:** *bhunt11@elon.edu*
 
 <!-- last updated July 2026 -->
