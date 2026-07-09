@@ -36,7 +36,7 @@ Analyzed synthetic outreach performance data for an outpatient telehealth compan
 ---
 
 ### 📈 [Salesforce + HubSpot RevOps Health Dashboard](https://github.com/huntbrian1/salesforce-hubspot-revops-dashboard)
-**Salesforce · HubSpot · Power BI · SQL · Python · Dashboarding · Revenue Operations**
+**Salesforce · HubSpot · Power BI · Dashboarding · Visualization**
 
 Synthetic Revenue Operations project modeling a B2B company using HubSpot for marketing automation and Salesforce for sales execution. Built full cross-system datasets (4,200 leads, 3,600 contacts, 1,650 opportunities, 24,000 email events, 1,180 sync error records) and diagnosed realistic CRM health issues: lifecycle gaps, pipeline hygiene, duplicate risk, stale opportunities, and field ownership conflicts. Delivered a multi-page Power BI dashboard, Salesforce screenshot, HubSpot dashboard, starter SQL/Python analysis, and randomized upload-ready CRM samples for free/developer accounts.
 
