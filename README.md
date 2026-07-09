@@ -12,6 +12,15 @@
 
 ## 📂 Projects
 
+### 🚨 [Public Safety Service Demand Intelligence Platform](https://github.com/huntbrian1/public-safety-workload-command-center)
+**PySpark · Python · Streamlit · Plotly · Big Data · Operational Analytics**
+
+Full-scale public safety analytics platform processing 6.47M cleaned service events into 3.95M zone-hour planning records via PySpark. Consolidated service-event, weather, calendar, and geographic metadata to surface workload timing, beat coverage, demand rhythm, and service-category mix. Built a live Streamlit command-center dashboard with mapped beat coverage across 55 Seattle GeoJSON polygons, zone-hour heatmaps, and resource-planning signals. Includes KMeans zone segmentation and Random Forest / MLP model comparison for high-demand period classification.
+
+> 🔗 [Live Dashboard](https://public-safety-workload-command-center-fqbwj4qintqr5ueqsfdbfm.streamlit.app/)
+
+---
+
 ### 📊 [Retail Merchandise Planning & FP&A Forecasting Model](https://github.com/huntbrian1/retail-merchandise-planning-fpa-forecasting-model)
 **SQL · Excel · FP&A · Open-to-Buy · Retail Planning**
 
@@ -35,7 +44,7 @@ Analyzed synthetic outreach performance data for an outpatient telehealth compan
 
 ---
 
-### 📈 [Salesforce + HubSpot Revenue Operations Health Dashboard](https://github.com/huntbrian1/salesforce-hubspot-revops-dashboard)
+### 📈 [Salesforce + HubSpot RevOps Health Dashboard](https://github.com/huntbrian1/salesforce-hubspot-revops-dashboard)
 **Salesforce · HubSpot · Power BI · Dashboarding · Visualization**
 
 Synthetic Revenue Operations project modeling a B2B company using HubSpot for marketing automation and Salesforce for sales execution. Built full cross-system datasets (4,200 leads, 3,600 contacts, 1,650 opportunities, 24,000 email events, 1,180 sync error records) and diagnosed realistic CRM health issues: lifecycle gaps, pipeline hygiene, duplicate risk, stale opportunities, and field ownership conflicts. Delivered a multi-page Power BI dashboard, Salesforce screenshot, HubSpot dashboard, starter SQL/Python analysis, and randomized upload-ready CRM samples for free/developer accounts.
