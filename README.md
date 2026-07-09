@@ -31,6 +31,8 @@ Built in Hex using public mental health and county-level demographic data to ide
 
 Analyzed synthetic outreach performance data for an outpatient telehealth company's clinical outreach/sales team, tracking referral yield, activity mix, and account concentration across a 12-month period. Surfaced a yield-not-volume problem — referral yield collapsed despite growing activity counts — and identified the top 10% of accounts driving 64.9% of referrals to inform account prioritization strategy. Concluded with Monte Carlo simulations modeling the incremental referral impact of CRM tooling improvements to reduce rep logging friction.
 
+> ⚠️ *If you have any trouble accessing the Hex projects above, please reach out at bhunt11@elon.edu.*
+
 ---
 
 ### ✈️ [Flight Disruption Risk Model](https://github.com/huntbrian1/flight-disruption-risk-model)
