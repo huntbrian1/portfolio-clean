@@ -33,6 +33,13 @@ Analyzed synthetic outreach performance data for an outpatient telehealth compan
 
 ---
 
+### ✈️ [Flight Disruption Risk Model](https://github.com/huntbrian1/flight-disruption-risk-model)
+**Python · Random Forest · scikit-learn · BTS/DOT Public Data · Operational Analytics**
+
+Built a three-season flight disruption risk model on 5M+ BTS on-time performance records across matched November–January holiday/winter operating windows (2023–2024, 2024–2025, 2025–2026). Isolated recurring holiday/winter pressure from one-year disruption spikes, identified late-day departure blocks as a proxy for accumulated network stress, and compared Base, Holiday-Aware, and Season-Calibrated Random Forest models. The top 10% highest-scored flights realized a disruption rate of ~38.6% vs. a ~21.2% baseline — a 1.82x lift — demonstrating the model's ability to concentrate risk into a defensible operational watchlist.
+
+---
+
 ### ☕ [Coffee & Beverage Category Strategy](https://github.com/huntbrian1/coffee-beverage-category-strategy)
 **Python · SQL · SQLite · Excel · Category Management · CPG Analytics**
 
