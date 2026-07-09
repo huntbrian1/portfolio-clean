@@ -40,7 +40,7 @@ Built in Hex using public mental health and county-level demographic data to ide
 
 Analyzed synthetic outreach performance data for an outpatient telehealth company's clinical outreach/sales team, tracking referral yield, activity mix, and account concentration across a 12-month period. Surfaced a yield-not-volume problem — referral yield collapsed despite growing activity counts — and identified the top 10% of accounts driving 64.9% of referrals to inform account prioritization strategy. Concluded with Monte Carlo simulations modeling the incremental referral impact of CRM tooling improvements to reduce rep logging friction.
 
-> ⚠️ *If you have any trouble accessing the Hex projects above, please reach out at bhunt11@elon.edu.*
+> ⚠️ *If you have any trouble accessing the Hex projects above, please reach out at brianhuntbackup@gmail.com.*
 
 ---
 
@@ -82,7 +82,8 @@ Used WSOP Main Event data (1971–2025) to analyze how scale changes payout econ
 ## 📫 Contact
 
 - **GitHub:** [github.com/huntbrian1](https://github.com/huntbrian1)
-- **Email:** *bhunt11@elon.edu*
+- **LinkedIn:** [linkedin.com/in/brian-hunt-9a3223268](https://www.linkedin.com/in/brian-hunt-9a3223268/)
+- **Email:** brianhuntbackup@gmail.com
 
 ---
 
