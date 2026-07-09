@@ -17,7 +17,7 @@
 
 Full-scale public safety analytics platform processing 6.47M cleaned service events into 3.95M zone-hour planning records via PySpark. Consolidated service-event, weather, calendar, and geographic metadata to surface workload timing, beat coverage, demand rhythm, and service-category mix. Built a live Streamlit command-center dashboard with mapped beat coverage across 55 Seattle GeoJSON polygons, zone-hour heatmaps, and resource-planning signals. Includes KMeans zone segmentation and Random Forest / MLP model comparison for high-demand period classification.
 
-> 🔗 [Live Dashboard](https://public-safety-workload-command-center-fqbwj4qintqr5ueqsfdbfm.streamlit.app/)
+> 🔗 [Live Dashboard](https://public-safety-workload-command-center-apzhvl2n7whz269ys79sns.streamlit.app/)
 
 ---
 
