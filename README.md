@@ -54,7 +54,7 @@ Synthetic Revenue Operations project modeling a B2B company using HubSpot for ma
 ### ✈️ [Flight Disruption Risk Model](https://github.com/huntbrian1/flight-disruption-risk-model)
 **Python · Random Forest · scikit-learn · BTS/DOT Public Data · Operational Analytics**
 
-Built a three-season flight disruption risk model on 5M+ BTS on-time performance records across matched November–January holiday/winter operating windows (2023–2024, 2024–2025, 2025–2026). Isolated recurring holiday/winter pressure from one-year disruption spikes, identified late-day departure blocks as a proxy for accumulated network stress, and compared Base, Holiday-Aware, and Season-Calibrated Random Forest models. The top 10% highest-scored flights realized a disruption rate of ~38.6% vs. a ~21.2% baseline — a 1.82x lift — demonstrating the model's ability to concentrate risk into a defensible operational watchlist.
+Built a three-season flight disruption risk model on 5M+ BTS on-time performance records across matched November–January holiday/winter operating windows (2023–2024, 2024–2025, 2025–2026). Isolated recurring holiday/winter pressure from one-year disruption spikes, identified late-day departure blocks as a proxy for accumulated network stress, and compared Base, Holiday-Aware, and Season-Calibrated Random Forest models. The Holiday-Aware RF achieved a ROC-AUC of 0.636 on a held-out test set against a 21.2% baseline disruption rate; in the latest season (2025–2026), observed late-day disruption reached 40.4% during New Year's Week and 36.0% during Christmas Week — the operating windows the model is designed to prioritize.
 
 ---
 
@@ -79,7 +79,7 @@ Used WSOP Main Event data (1971–2025) to analyze how scale changes payout econ
 
 ---
 
-## 📫 Contact
+## 💫 Contact
 
 - **GitHub:** [github.com/huntbrian1](https://github.com/huntbrian1)
 - **LinkedIn:** [linkedin.com/in/brian-hunt-9a3223268](https://www.linkedin.com/in/brian-hunt-9a3223268/)
