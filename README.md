@@ -21,6 +21,13 @@ Full-scale public safety analytics platform processing 6.47M cleaned service eve
 
 ---
 
+### 💰 [Finance Budget Variance Tableau Model](https://github.com/huntbrian1/finance-budget-variance-tableau)
+**Tableau · Excel · FP&A · Budget vs. Actuals · Variance Analysis**
+
+Corporate budget-versus-actual variance analysis built on 9,995 simulated transactions spanning 2021–2023 across 6 departments, 6 expense categories, and 5 regions. Diagnosed an $94.6M unfavorable variance (11.9% over budget) with a 55.9% overall over-budget transaction rate. Built a two-dashboard Tableau workbook — Corporate Spending Overview and Variance Analysis — separating frequency of budget misses from magnitude, and identifying Marketing (+15.1%) and East region (+13.4%) as the highest-variance segments. Includes a cleaned Excel dataset, calculated fields (Variance $, Variance %, Over Budget Flag, Over Budget Rate), and a transaction-level drill-down table for audit review.
+
+---
+
 ### 📊 [Retail Merchandise Planning & FP&A Forecasting Model](https://github.com/huntbrian1/retail-merchandise-planning-fpa-forecasting-model)
 **SQL · Excel · FP&A · Open-to-Buy · Retail Planning**
 
