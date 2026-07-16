@@ -21,7 +21,7 @@ Full-scale public safety analytics platform processing 6.47M cleaned service eve
 
 ---
 
-### 💰 [Finance Budget Variance Tableau Model](https://github.com/huntbrian1/finance-budget-variance-tableau)
+### 💰 [Corporate Budget Variance & Spend Intelligence](https://github.com/huntbrian1/finance-budget-variance-tableau)
 **Tableau · Excel · FP&A · Budget vs. Actuals · Variance Analysis**
 
 Corporate budget-versus-actual variance analysis built on 9,995 simulated transactions spanning 2021–2023 across 6 departments, 6 expense categories, and 5 regions. Surfaced a 94.6M unfavorable variance (11.9% over budget) with a 55.9% overall over-budget rate, identifying Marketing and the East region as the highest-variance segments. Delivered a two-dashboard Tableau workbook separating frequency of budget misses from magnitude, with transaction-level drill-down for audit review.
